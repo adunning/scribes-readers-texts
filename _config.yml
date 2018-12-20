@@ -1,0 +1,29 @@
+# Site settings
+lang: en-CA
+title: Scribes, Readers, and Latin Texts
+author: Andrew Dunning
+email: andrew.dunning@utoronto.ca
+description: >
+  Learn to read a medieval book through Latin palaeography and make it accessible to others with digital textual criticism (winter 2019 at St Michael’s College, University of Toronto, SMC472H1-S).
+baseurl: "/scribes-readers-texts" # the subpath of your site, e.g. /blog
+url: "https://andrewdunning.ca" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: anjdunning
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
