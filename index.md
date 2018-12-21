@@ -5,7 +5,7 @@ layout: home
 *This is a draft syllabus and subject to change. If you are planning to take this course and have ideas on what you hope to see, get in touch!*
 
 Classes
-: Fridays, 11 January–5 April 2019, 10:00--12:00, [AH 108](http://map.utoronto.ca/utsg/building/407)
+: Fridays, 11 January–5 April 2019, 10:00--12:00, [PIMS Library](http://www.pims.ca/library/general-information-hours-access-staff) palaeography room ([Kelly Library](https://stmikes.utoronto.ca/library/), fourth floor)
 
 Instructor
 : Dr Andrew Dunning, <andrew.dunning@utoronto.ca>
@@ -33,12 +33,12 @@ In short, this course enables you to read a medieval manuscript and use it for o
 
 # Course materials
 
-Supporting the in-class assignments, we will read these books over the course of the term, which you can use either online or in printed form:
+You won't need to buy a textbook for this course, as there are a range of materials that we'll use online and in print. All books are available on reserve in the Kelly Library. Supporting the in-class assignments, we will read these books over the course of the term:
 
 - L.D. Reynolds and N.G. Wilson, *Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature,* 4th ed. (Oxford: Oxford University Press, 2013).
 - R.J. Tarrant, [*Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism,*](https://doi.org/cxkv) Roman Literature and Its Contexts (Cambridge: Cambridge University Press, 2016).
 
-You will also want to master the following reference works on Western palaeography:
+You will also want to familiarize yourself the following reference works on Western palaeography:
 
 - Bernhard Bischoff, [*Latin Palaeography: Antiquity and the Middle Ages,*](https://doi.org/gd6cws) trans. Daibhm O. Cróinin and David Ganz (Cambridge: Cambridge University Press, 1990).
 - Michelle P. Brown, *A Guide to Western Historical Scripts from Antiquity to 1600* (Toronto: University of Toronto Press, 1990).
@@ -46,10 +46,12 @@ You will also want to master the following reference works on Western palaeograp
 
 You will want to make use of a dictionary for expanding abbreviations. Generations of manuscripts scholars have grown up with Cappelli's:
 
-- Adriano Cappelli, *Lexicon abbreviaturarum: Dizionario di abbreviature latine ed italiane,* 6th ed., Manuali Hoepli (Milan: Hoepli, 1961).
+- Adriano Cappelli, *Lexicon abbreviaturarum: Dizionario di abbreviature latine ed italiane,* 7th ed. (Milan: Hoepli, 2011). English translation of the introduction: [*The Elements of Abbreviation in Medieval Latin Paleography,*](https://hdl.handle.net/1808/1821) trans. David Heimann and Richard Kay (Lawrence: University of Kansas Libraries, 1982).
 
-The University of Zurich now hosts an updated [digital Cappelli](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online). I also use Olaf Pluta's [Abbreviationes](http://abbreviationes.net), available through the University of Toronto subscription. Where these fail, Marjorie Burghart's [Enigma](http://enigma.huma-num.fr) is a wonderful resource for finding Latin words.
+This dictionary has not changed substantially since 1929, and the University of Zurich now hosts an updated [digital Cappelli](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online). Olaf Pluta's [Abbreviationes](http://abbreviationes.net), available through the University of Toronto subscription, offers a larger database of abbreviations. Where these fail, Marjorie Burghart's [Enigma](http://enigma.huma-num.fr) allows you to find Latin words by counting minims (vertical strokes) in manuscripts.
 
 This work is a convenient reference for manuscript terminology:
 
-- Michelle P. Brown, *Understanding Illuminated Manuscripts: A Guide to Technical Terms* (London: British Library, 1994), <https://bl.uk/catalogues/illuminatedmanuscripts/glossary.asp>.
+- Michelle P. Brown, [*Understanding Illuminated Manuscripts: A Guide to Technical Terms*](https://bl.uk/catalogues/illuminatedmanuscripts/glossary.asp) (London: British Library, 1994).
+
+Finally, you'll need some extra software on your computer to make manuscript transcription easier using the [Text Encoding Initiative](http://www.tei-c.org) guidelines. I recommend the [Atom](https://atom.io) text editor: see the instructions at the end of my [Getting started with editing TEI XML using Atom](https://andrewdunning.ca/getting-started-editing-tei-xml-atom) page.
