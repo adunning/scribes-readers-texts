@@ -13,23 +13,23 @@ Assessment is weighted as follows:
 10%
 : Participation
 
-30%
+35%
 : Weekly transcriptions (due every Wednesday)
 
-5%
-: Collation exercise (due 13 March)
+10%
+: Manuscript collation (due 27 February)
+
+15%
+: Group edition draft (due 15 March)
 
 30%
-: Final project (due 5 April)
-
-25%
-: Final examination (finals period)
+: Group edition (due 5 April)
 
 All assignments must be submitted in either English or French through Quercus. Any citation style may be used in this course as long as it is consistent: I recommend either the [*MHRA Style Guide*](http://mhra.org.uk/style) or the [*Chicago Manual of Style*](https://chicagomanualofstyle.org).
 
 ## Participation
 
-This is a seminar course, which can only function with your contribution. In each class, we will take up the previous week's transcription exercises, read an additional passage without preparation, and discuss the historical development of scripts and textual transmission based on the assigned readings.
+As a seminar, this course can only function with your contribution. In each class, we will take up the previous week's transcription exercises, read an additional passage without preparation, and discuss the historical development of scripts and textual transmission based on the assigned readings.
 
 ## Weekly transcriptions
 
@@ -39,17 +39,13 @@ Every week, you will transcribe passages from two manuscripts using the TEI mark
 
 As a preliminary to the final project, you will make three transcriptions of the same text and make a small critical edition showing the differences between them. This will replace the transcription exercises for the week leading up to 15 March.
 
-## Final project
+## Group edition
 
-Your final project will consist of an introduction and edition to an excerpt of a text of your choosing.
-
-## Final examination
-
-The final examination will test your ability to identify and date scripts; expand abbreviations; and interpret textual transmission.
+We will create, as a group, an introduction, edition, and translation of a Latin text that we will select in the second week of term, and submit it for publication at the end of the year. You will be personally responsible for one portion of the text as well as reviewing your peers' work, based on an initial draft.
 
 ## Analytical writing rubric
 
-The final paper is given a grade out of 100 points, based on a set of six criteria.
+I will grade your written work based on a set of six criteria.
 
 | Characteristic                    | Exceptional (A, 80–100)                                                                                                                                                 | Well-Done (B, 70–79)                                                                                                    | Fair (C, 60–69)                                                                                                                 | Needs Work (D, 50–59)                                                                                                         | Poor (F, 0–49)                                                                                                    |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|

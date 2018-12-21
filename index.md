@@ -33,7 +33,7 @@ In short, this course enables you to read a medieval manuscript and use it for o
 
 # Course materials
 
-You won't need to buy a textbook for this course, as there are a range of materials that we'll use online and in print. All books are available on reserve in the Kelly Library. Supporting the in-class assignments, we will read these books over the course of the term:
+This course draws on a range of materials online and in print. All books are available on reserve in the Kelly Library, and it is up to your judgement whether you wish to purchase any of the following for reference purposes. Supporting the in-class assignments, we will read these books over the course of the term:
 
 - L.D. Reynolds and N.G. Wilson, *Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature,* 4th ed. (Oxford: Oxford University Press, 2013).
 - R.J. Tarrant, [*Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism,*](https://doi.org/cxkv) Roman Literature and Its Contexts (Cambridge: Cambridge University Press, 2016).
