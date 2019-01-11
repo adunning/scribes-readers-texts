@@ -14,7 +14,7 @@ Assessment is weighted as follows:
 : Participation
 
 35%
-: Weekly transcriptions (due every Wednesday)
+: Weekly transcriptions (due 17:00 Thursdays)
 
 10%
 : Manuscript collation (due 27 February)

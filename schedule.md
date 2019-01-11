@@ -14,6 +14,7 @@ permalink: /schedule/
 
 - Palaeography and Book Circulation
 - Types of Scripts
+- Digital Texts
 
 ## 18 January
 
@@ -22,11 +23,12 @@ permalink: /schedule/
 
 ### Read
 
+- *Scribes and Scholars,* ch. 1–2
+
 ### Transcribe
 
-<!--? BL Papyrus 745 http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Papyrus_745 -->
-- Virgil, *Georgics,* square capitals, Italian, fourth century?: Vatican, Bibliotheca Apostolica, Vat. lat. 3256 ('Vergilius Augusteus'), [fol. 2r](https://digi.vatlib.it/view/MSS_Vat.lat.3256/0003) (left-hand page, first 15 lines, 'Atque … rastris')<!--chk Brown -->
-- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), [fol. 28r](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059)
+- Virgil, *Georgics,* square capitals, Italian, fourth century?: Vatican, Bibliotheca Apostolica, Vat. lat. 3256 ('Vergilius Augusteus'), [fol. 2r](https://digi.vatlib.it/view/MSS_Vat.lat.3256/0003) (right-hand page, first 15 lines, 'Quis … fumus')
+- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), [fol. 28r](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059) (lines 4–end, 'prosequitur … cursus')
 
 ## 25 January
 
@@ -35,9 +37,12 @@ permalink: /schedule/
 
 ### Read
 
+- *Scribes and Scholars,* ch. 3
+
 ### Transcribe
 
 - Vulgate Bible, uncial, from Wearmouth-Jarrow, *c.*700: Florence, Biblioteca Medicea Laurenziana, Amiatino 1 ('Codex Amiatinus'), [fol. 50r](https://www.wdl.org/en/item/20150/view/1/98/) (first column)
+<!--? BL Papyrus 745 http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Papyrus_745 -->
 
 <!-- - Lindisfarne Gospels, London, British Library, MS Cotton Nero D. IV, fol. 259r, Transcribe column b, Latin lines 1-6 (mundum habere) and the Latin prayers written below the column and in the left margin.
 Half Uncial, display script and insular minuscule.
@@ -54,6 +59,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Read
 
+- *Scribes and Scholars,* ch. 4
+
 ### Transcribe
 
 ## 8 February
@@ -61,6 +68,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Carolingian Minuscule
 
 ### Read
+
+- *Scribes and Scholars,* ch. 5
 
 ### Transcribe
 
@@ -71,6 +80,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Late Carolingian and Early Gothic Minuscules
 
 ### Read
+
+- *Scribes and Scholars,* ch. 6
 
 ### Transcribe
 
@@ -89,6 +100,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Read
 
+- *Texts, editors, and readers,* chs 1–2
+
 ### Transcribe
 
 ## 8 March
@@ -97,6 +110,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Punctuation
 
 ### Read
+
+- *Texts, editors, and readers,* chs 3–4
 
 ### Transcribe
 
@@ -110,6 +125,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Read
 
+- *Texts, editors, and readers,* chs 5–6
+
 ### Transcribe
 
 ## 22 March
@@ -117,6 +134,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Regional Variants of Gothic
 
 ### Read
+
+- *Texts, editors, and readers,* chs 6–7
 
 ### Transcribe
 
@@ -127,6 +146,8 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Read
 
+- *Texts, editors, and readers,* ch. 8
+
 ### Transcribe
 
 ## 5 April
@@ -134,6 +155,6 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Manuscripts in the Early Modern Period
 - *Group edition due*
 
-### Read
-
 ### Transcribe
+
+
