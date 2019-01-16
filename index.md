@@ -2,8 +2,6 @@
 layout: home
 ---
 
-*This is a draft syllabus and subject to change. If you are planning to take this course and have ideas on what you hope to see, get in touch!*
-
 Classes
 : Fridays, 11 January–5 April 2019, 10:00--12:00, [PIMS Library](http://www.pims.ca/library/general-information-hours-access-staff) palaeography room ([Kelly Library](https://stmikes.utoronto.ca/library/), fourth floor)
 
