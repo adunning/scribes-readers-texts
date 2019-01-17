@@ -8,13 +8,15 @@ permalink: /schedule/
 {:toc}
 {::options toc_levels="2" /}
 
-*Note: I am in the process of adding the readings and transciptions for each week.*
-
 ## 11 January
 
 - Palaeography and Book Circulation
 - Types of Scripts
 - Digital Texts
+
+### Read
+
+- Bischoff, '[Writing materials and writing tools](https://doi.org/10.1017/CBO9780511809927.003)'
 
 ## 18 January
 
@@ -24,11 +26,13 @@ permalink: /schedule/
 ### Read
 
 - *Scribes and Scholars,* ch. 1–2
+- Bischoff, '[The external characteristics of the written heritage](https://doi.org/10.1017/CBO9780511809927.004)'
+- Bischoff, '[Latin script in antiquity](https://doi.org/10.1017/CBO9780511809927.008)'
 
 ### Transcribe
 
-- Virgil, *Georgics,* square capitals, Italian, fourth century?: Vatican, Bibliotheca Apostolica, Vat. lat. 3256 ('Vergilius Augusteus'), [fol. 2r](https://digi.vatlib.it/view/MSS_Vat.lat.3256/0003) (right-hand page, first 15 lines, 'Quis … fumus')
-- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), [fol. 28r](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059) (lines 4–end, 'prosequitur … cursus')
+- Virgil, *Georgics,* square capitals, Italian, 4th century(?): [Vatican City, Bibliotheca Apostolica, Vat. lat. 3256 ('Vergilius Augusteus'), fol. 2r](https://digi.vatlib.it/view/MSS_Vat.lat.3256/0003) (right-hand page, first 15 lines, 'Quis … fumus')
+- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: [Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), fol. 28r](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059) (lines 4–end, 'prosequitur … cursus')
 
 ## 25 January
 
@@ -38,10 +42,13 @@ permalink: /schedule/
 ### Read
 
 - *Scribes and Scholars,* ch. 3
+- Bischoff, '[Latin handwriting in the Middle Ages](https://doi.org/10.1017/CBO9780511809927.009)'
+- Bischoff, '[Roman and Christian antiquity](https://doi.org/10.1017/CBO9780511809927.011)'
 
 ### Transcribe
 
-- Vulgate Bible, uncial, from Wearmouth-Jarrow, *c.*700: Florence, Biblioteca Medicea Laurenziana, Amiatino 1 ('Codex Amiatinus'), [fol. 50r](https://www.wdl.org/en/item/20150/view/1/98/) (first column)
+- Vulgate Bible, uncial, from Wearmouth-Jarrow, *c.*700: [Florence, Biblioteca Medicea Laurenziana, Amiatino 1 ('Codex Amiatinus'), fol. 50r](https://www.wdl.org/en/item/20150/view/1/98/) (first column)
+- Eugippius, *Excerpta ex operibus s. Augustini,* Italian, 7th century: [Vatican City, Bibliotheca Apostolica, Vat. lat. 3375, fol. 30r](https://digi.vatlib.it/view/MSS_Vat.lat.3375) (lines 1–16, 'rem stupendus … celsitudo tu es')
 <!--? BL Papyrus 745 http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Papyrus_745 -->
 
 <!-- - Lindisfarne Gospels, London, British Library, MS Cotton Nero D. IV, fol. 259r, Transcribe column b, Latin lines 1-6 (mundum habere) and the Latin prayers written below the column and in the left margin.
@@ -60,8 +67,13 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Scribes and Scholars,* ch. 4
+- Bischoff, ['Supplement': Abbreviation, Punctuation, Musical Notation](https://doi.org/10.1017/CBO9780511809927.010)
+- Bischoff, '[The early Middle Ages](https://doi.org/10.1017/CBO9780511809927.012)'
 
 ### Transcribe
+
+- Ambrosiaster, commentary on Paul's second epistle to the Corinthians, Corbie AB minuscule, from northern France, late 8th–early 9th century: [London, British Library, Harley MS 3063, fol. 39v](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_3063_f039v) (lines 1–13, Paulus … repperitur)
+- Mozarabic lectionary, Visigothic minuscule, from Burgos (northern Spain), 10th century, [London, British Library, Add. MS 30844, fol. 40v](http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_30844_f040v) (column 1, lines 2–22, 'Epistula … a patre')
 
 ## 8 February
 
@@ -70,10 +82,12 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Scribes and Scholars,* ch. 5
+- Bischoff, '[The Carolingian period](https://doi.org/10.1017/CBO9780511809927.013)'
 
 ### Transcribe
 
-- Augustine, *Retractiones,* Caroline minuscule, possibly from Tours, Central France, 820s--840s: London, British Library Harley MS 3012, [fol. 1r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_3012_fs001r) (first 12 lines: 'Incipit … recordari.')
+- Augustine, *Retractiones,* Carolingian minuscule, possibly from Tours, Central France, 820s--840s: London, British Library Harley MS 3012, [fol. 2r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_3012_f002r) (lines 3–15: 'A*ugustinus.* Quomodo … supradixeris.')
+- Benedict, *Rule,* Carolingian minuscule, from St Gall, mid-ninth century: [St Gallen, Stiftsbibliothek, Cod. Sang. 914, p. 16](https://www.e-codices.unifr.ch/en/csg/0914/16/0/Sequence-713) (lines 1–14, 'Abbas … spargatur')
 
 ## 15 February
 
@@ -82,10 +96,12 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Scribes and Scholars,* ch. 6
+- Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
 
 ### Transcribe
 
-- Prior Philip, *Miracula sancte Frideswide,* protogothic, Oxfordshire, 1180s: Oxford, Bodleian Library, MS Digby 177, [fol. 10v](https://www.flickr.com/photos/adunning/26542703737/in/album-72157699745242551/) (first column, up to the initial: 'sequitur … et affectu.')
+- Beatus of Liébana, commentary on the Apocalypse, late Benevantan script, from southern Italy, late 11th or early 12th century: [Geneva, Bibliothèque de Genève, Ms. lat. 357, fol. 152r](https://www.e-codices.unifr.ch/en/bge/lat0357/152r) (column 1, lines 1–25, 'Quid faciet … reseruauimus;')
+- Alan of Tewkesbury, collection of the letters of Thomas Becket, protogothic script, from Cirencester, Gloucestershire, 1180s–90s: [London, British Library, Cotton MS Claudius B. ii, fol. 17r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_b_ii_f017r) (column 2, lines 1–20, 'Iohannes … illas.')
 
 22 February
 : No class for reading week
@@ -101,8 +117,11 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Texts, editors, and readers,* chs 1–2
+- Bischoff, '[The late Middle Ages](https://doi.org/10.1017/CBO9780511809927.015)'
 
 ### Transcribe
+
+- Prior Philip, *Miracula sancte Frideswide,* protogothic, Oxford, 1180s: Oxford, Bodleian Library, MS Digby 177, [fol. 10v](https://www.flickr.com/photos/adunning/26542703737/in/album-72157699745242551/) (first column, up to the initial: 'sequitur … et affectu.')
 
 ## 8 March
 
@@ -112,8 +131,12 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Texts, editors, and readers,* chs 3–4
+- Bischoff, '[Writing and copying](https://doi.org/10.1017/CBO9780511809927.005)'
 
 ### Transcribe
+
+- Hildegard von Bingen, *Sciuias*, protogothic, from County Palatine of the Rhine, 1180s [Wiesbaden, Hessische Landesbibliothek, MS 2 ('Riesencodex'), fol. 3r](http://hlbrm.digitale-sammlungen.hebis.de/handschriften-hlbrm/content/pageview/449631) (column 1, lines 1–20, 'Incipit … compositionis')
+- 
 
 ## 15 March
 
@@ -147,6 +170,7 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Texts, editors, and readers,* ch. 8
+- Bischoff, '[The age of humanism](https://doi.org/10.1017/CBO9780511809927.016)'
 
 ### Transcribe
 
@@ -156,5 +180,3 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - *Group edition due*
 
 ### Transcribe
-
-
