@@ -32,7 +32,7 @@ permalink: /schedule/
 ### Transcribe
 
 - Virgil, *Georgics,* square capitals, Italian, 4th century(?): [Vatican City, Bibliotheca Apostolica, Vat. lat. 3256 ('Vergilius Augusteus'), fol. 2r](https://digi.vatlib.it/view/MSS_Vat.lat.3256/0003) (right-hand page, first 15 lines, 'Quis … fumus')
-- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: [Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), fol. 28r](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059) (lines 4–end, 'prosequitur … cursus')
+- Virgil, *Aeneid,* rustic caps, from Rome, *c.*400: [Vatican City, Biblioteca Apostolica, Vat. lat. 3225 ('Vergilius Vaticanus'), fol. 27v](https://digi.vatlib.it/view/MSS_Vat.lat.3225/0059) (lines 4–end, 'prosequitur … cursus')
 
 ## 25 January
 
