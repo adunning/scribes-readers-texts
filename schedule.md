@@ -47,8 +47,8 @@ permalink: /schedule/
 
 ### Transcribe
 
+- Eugippius, *Excerpta ex operibus s. Augustini,* half-uncial, Italian, 7th century: [Vatican City, Bibliotheca Apostolica, Vat. lat. 3375, fol. 30r](https://digi.vatlib.it/view/MSS_Vat.lat.3375/0070) (lines 1–16, 'rem stupendus … celsitudo tu es')
 - Vulgate Bible, uncial, from Wearmouth-Jarrow, *c.*700: [Florence, Biblioteca Medicea Laurenziana, Amiatino 1 ('Codex Amiatinus'), fol. 50r](https://www.wdl.org/en/item/20150/view/1/98/) (first column)
-- Eugippius, *Excerpta ex operibus s. Augustini,* Italian, 7th century: [Vatican City, Bibliotheca Apostolica, Vat. lat. 3375, fol. 30r](https://digi.vatlib.it/view/MSS_Vat.lat.3375) (lines 1–16, 'rem stupendus … celsitudo tu es')
 <!--? BL Papyrus 745 http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Papyrus_745 -->
 
 <!-- - Lindisfarne Gospels, London, British Library, MS Cotton Nero D. IV, fol. 259r, Transcribe column b, Latin lines 1-6 (mundum habere) and the Latin prayers written below the column and in the left margin.
