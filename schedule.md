@@ -91,17 +91,20 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ## 15 February
 
-- Late Carolingian and Early Gothic Minuscules
+- The Apparatus Criticus
+- Punctuation
 
 ### Read
 
 - *Scribes and Scholars,* ch. 6
-- Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
 
-### Transcribe
+### Manuscript collation: *The Life of St Perpetua*
 
-- Beatus of Liébana, commentary on the Apocalypse, late Benevantan script, from southern Italy, late 11th or early 12th century: [Geneva, Bibliothèque de Genève, Ms. lat. 357, fol. 152r](https://www.e-codices.unifr.ch/en/bge/lat0357/152r) (column 1, lines 1–25, 'Quid faciet … reseruauimus;')
-- Alan of Tewkesbury, collection of the letters of Thomas Becket, protogothic script, from Cirencester, Gloucestershire, 1180s–90s: [London, British Library, Cotton MS Claudius B. ii, fol. 17r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_b_ii_f017r) (column 2, lines 1–20, 'Iohannes … illas.')
+- 10th century, Soissons: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g), beginning at fol. 64r
+- 9th–10th century, St Gall: [St Gallen, Stiftsbibliothek, Cod. Sang. 577](https://doi.org/10.5076/e-codices-csg-0577), beginning at p. 165b
+- late 11th century–early 12th century, England: [London, British Library, Cotton MS Nero E. i/1](https://bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Nero_E_I/1), beginning at fol. 162r
+
+For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com.myaccess.library.utoronto.ca/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
 
 22 February
 : No class for reading week
@@ -111,36 +114,37 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ## 1 March
 
-- Gothic Minuscules: Textura and Textualis
-- Dealing with Textual Variation
+- Late Carolingian scripts
+- Protogothic
 
 ### Read
 
 - *Texts, editors, and readers,* chs 1–2
-- Bischoff, '[The late Middle Ages](https://doi.org/10.1017/CBO9780511809927.015)'
+- Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
 
 ### Transcribe
 
-- Prior Philip, *Miracula sancte Frideswide,* protogothic, Oxford, 1180s: Oxford, Bodleian Library, MS Digby 177, [fol. 10v](https://www.flickr.com/photos/adunning/26542703737/in/album-72157699745242551/) (first column, up to the initial: 'sequitur … et affectu.')
+- Beatus of Liébana, commentary on the Apocalypse, late Benevantan script, from southern Italy, late 11th or early 12th century: [Geneva, Bibliothèque de Genève, Ms. lat. 357, fol. 152r](https://www.e-codices.unifr.ch/en/bge/lat0357/152r) (column 1, lines 1–25, 'Quid faciet … reseruauimus;')
+- Alan of Tewkesbury, collection of the letters of Thomas Becket, protogothic script, from Cirencester, Gloucestershire, 1180s–90s: [London, British Library, Cotton MS Claudius B. ii, fol. 17r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_b_ii_f017r) (column 2, lines 1–20, 'Iohannes … illas.')
 
 ## 8 March
 
-- The Apparatus Criticus
-- Punctuation
+- Gothic Textualis
+- Dealing with Textual Variation
 
 ### Read
 
 - *Texts, editors, and readers,* chs 3–4
-- Bischoff, '[Writing and copying](https://doi.org/10.1017/CBO9780511809927.005)'
+- Bischoff, '[The late Middle Ages](https://doi.org/10.1017/CBO9780511809927.015)'
 
 ### Transcribe
 
-- Hildegard von Bingen, *Sciuias*, protogothic, from County Palatine of the Rhine, 1180s [Wiesbaden, Hessische Landesbibliothek, MS 2 ('Riesencodex'), fol. 3r](http://hlbrm.digitale-sammlungen.hebis.de/handschriften-hlbrm/content/pageview/449631) (column 1, lines 1–20, 'Incipit … compositionis')
-- 
+- Hildegard von Bingen, *Sciuias*, protogothic, from County Palatine of the Rhine, 1180s: [Wiesbaden, Hessische Landesbibliothek, MS 2 ('Riesencodex'), fol. 3r](http://hlbrm.digitale-sammlungen.hebis.de/handschriften-hlbrm/content/pageview/449631) (column 1, lines 1–20, 'Incipit … compositionis')
+- *Carmina burana,* Gothic, from northern Italy, 1230s: [Munich, Bayerische Staatsbibliothek, Clm 4660, fol. 1r](http://daten.digitale-sammlungen.de/bsb00085130/image_5) (all text below the illustration)
 
 ## 15 March
 
-- Bastarda and Gothic Cursive
+- Gothic Cursive
 - *Group edition draft due*
 
 17 March
@@ -149,18 +153,25 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 ### Read
 
 - *Texts, editors, and readers,* chs 5–6
+- Bischoff, '[Writing and copying](https://doi.org/10.1017/CBO9780511809927.005)'
 
 ### Transcribe
 
+- John Capgrave, *De illustribus Henricis,* Gothic Cursiva libraria, from King's Lynn, 1440–47: [Cambridge, Corpus Christi College, MS 408, p. 1](https://parker.stanford.edu/parker/catalog/kf592sx0689) (lines 1–11, 'Henrico … terre')
+- Giles of Rome, *De regimine principum,* Gothic Cursiva formata, 1460–80: [Geneva, Bibliothèque de Genève, Ms. lat. 92, fol. 1r](https://www.e-codices.unifr.ch/en/bge/lat0092/1r) (column 1 (all)–column 2, lines 1–6 '⟨Ex r⟩egia … mensurari.')
+
 ## 22 March
 
-- Regional Variants of Gothic
+- Gothic Hybrida and Semihybrida
 
 ### Read
 
 - *Texts, editors, and readers,* chs 6–7
 
 ### Transcribe
+
+- Dionysius Leeuwis Cartusiensis, *Exhortatorium nouitiorum,* Gothic Hybrida formata, from Basel, 2nd half of the 15th century: [Basel, Universitätsbibliothek, MS A VII 30, fol. 1r](https://www.e-codices.unifr.ch/en/ubb/A-VII-0030/1r) (lines 1–14, '*Cristus.* Nemo … es?')
+- Nicolaus Dybinus (?), *Sporta florum rethoricalium,* Semihybrida, written by Albertus Löffler at the Dominican Monastery of Basel, 1438–9: [Basel, Universitätsbibliothek, MS F VI 61, fol. 27r](https://www.e-codices.unifr.ch/en/ubb/F-VI-0061/27r) (lines 1–16, 'Ingredientibus … prospexi')
 
 ## 29 March
 
@@ -174,9 +185,10 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Transcribe
 
+- Eusebius Caesariensis, Prosper de Aquitania, *Chronicon,* Humanist minuscule, from Florence, *c.*1410: [Kantonsbibliothek, Vadianische Sammlung, VadSlg Ms. 298, fol. 2r](https://www.e-codices.unifr.ch/en/vad/0298/2r) (first column, lines 1–19, 'Adiuro … absoluerent.')
+- *Carmen ad osmum de Medicis directum,* Humanist cursive, from Italy, second half of the 15th century: [Basel, Universitätsbibliothek, MS F IX 2, fol. 7r](https://www.e-codices.unifr.ch/en/ubb/F-IX-0002/7r) (lines 1–16, 'Cosme … facis')
+
 ## 5 April
 
 - Manuscripts in the Early Modern Period
 - *Group edition due*
-
-### Transcribe
