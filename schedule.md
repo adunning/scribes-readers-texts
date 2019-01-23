@@ -96,7 +96,10 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Read
 
-- *Scribes and Scholars,* ch. 6
+- Tarrant, [Introduction](https://doi.org/10.1017/CBO9780511805165.002)
+- Tarrant, '[Textual criticism in a post-heroic age](https://doi.org/10.1017/CBO9780511805165.003)'
+- Tarrant, '[Reading a critical apparatus](https://doi.org/10.1017/CBO9780511805165.011)' (*skim this: a reference chapter*)
+- *Scribes and Scholars,* ch. 6 (*optional: Tarrant covers this in more depth*)
 
 ### Manuscript collation: *The Life of St Perpetua*
 
@@ -104,7 +107,7 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - 9th–10th century, St Gall: [St Gallen, Stiftsbibliothek, Cod. Sang. 577](https://doi.org/10.5076/e-codices-csg-0577), beginning at p. 165b
 - late 11th century–early 12th century, England: [London, British Library, Cotton MS Nero E. i/1](https://bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Nero_E_I/1), beginning at fol. 162r
 
-For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com.myaccess.library.utoronto.ca/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
+For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
 
 22 February
 : No class for reading week
@@ -119,7 +122,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Read
 
-- *Texts, editors, and readers,* chs 1–2
+- Tarrant, '[The rhetoric of textual criticism/textual criticism as rhetoric](https://doi.org/10.1017/CBO9780511805165.004)'
 - Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
 
 ### Transcribe
@@ -134,7 +137,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Read
 
-- *Texts, editors, and readers,* chs 3–4
+- Tarrant, '[Establishing the text 1: recension](https://doi.org/10.1017/CBO9780511805165.005)'
 - Bischoff, '[The late Middle Ages](https://doi.org/10.1017/CBO9780511809927.015)'
 
 ### Transcribe
@@ -152,7 +155,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Read
 
-- *Texts, editors, and readers,* chs 5–6
+- Tarrant, '[Establishing the text 2: conjecture](https://doi.org/10.1017/CBO9780511805165.006)'
 - Bischoff, '[Writing and copying](https://doi.org/10.1017/CBO9780511809927.005)'
 
 ### Transcribe
@@ -166,7 +169,8 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Read
 
-- *Texts, editors, and readers,* chs 6–7
+- Tarrant, '[Establishing the text 3: interpolation, collaboration, and intertextuality](https://doi.org/10.1017/CBO9780511805165.007)'
+- Tarrant, '[Textual criticism and literary criticism: the case of Propertius](https://doi.org/10.1017/CBO9780511805165.008)' (*mostly a collection of examples that you can skim*)
 
 ### Transcribe
 
@@ -180,7 +184,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Read
 
-- *Texts, editors, and readers,* ch. 8
+- Tarrant, '[Presenting the text: the critical edition and its discontents](https://doi.org/10.1017/CBO9780511805165.009)'
 - Bischoff, '[The age of humanism](https://doi.org/10.1017/CBO9780511809927.016)'
 
 ### Transcribe
@@ -192,3 +196,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 - Manuscripts in the Early Modern Period
 - *Group edition due*
+
+### Read
+
+- Tarrant, '[The future: problems and prospects](https://doi.org/10.1017/CBO9780511805165.010)'

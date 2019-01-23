@@ -31,7 +31,9 @@ In short, this course enables you to read a medieval manuscript and use it for o
 
 # Course materials
 
-This course draws on a range of materials online and in print. All books are available on reserve in the Kelly Library, and it is up to your judgement whether you wish to purchase any of the following for reference purposes. Supporting the in-class assignments, we will read these books over the course of the term:
+This course draws on a range of materials online and in print. All books are available on reserve in the Kelly Library, and it is up to your judgement whether you wish to purchase any of the following for reference purposes.
+
+Supporting the in-class assignments, we will read these books over the course of the term:
 
 - L.D. Reynolds and N.G. Wilson, *Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature,* 4th ed. (Oxford: Oxford University Press, 2013).
 - R.J. Tarrant, [*Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism,*](https://doi.org/cxkv) Roman Literature and Its Contexts (Cambridge: Cambridge University Press, 2016).
@@ -41,6 +43,10 @@ You will also want to familiarize yourself the following reference works on West
 - Bernhard Bischoff, [*Latin Palaeography: Antiquity and the Middle Ages,*](https://doi.org/gd6cws) trans. Daibhm O. Cróinin and David Ganz (Cambridge: Cambridge University Press, 1990).
 - Michelle P. Brown, *A Guide to Western Historical Scripts from Antiquity to 1600* (Toronto: University of Toronto Press, 1990).
 - Albert Derolez, *The Palaeography of Gothic Manuscript Books: From the Twelfth to the Early Sixteenth Century,* Cambridge Studies in Palaeography and Codicology 9 (Cambridge: Cambridge University Press, 2003).
+
+I also recommend this optional reading as a highly enjoyable general introduction to modern manuscript culture and examining medieval books:
+
+- Christopher de Hamel, *Meetings with Remarkable Manuscripts* (London: Lane, 2016).
 
 You will want to make use of a dictionary for expanding abbreviations. Generations of manuscripts scholars have grown up with Cappelli's:
 
