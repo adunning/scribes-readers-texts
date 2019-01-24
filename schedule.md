@@ -171,8 +171,8 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 ### Transcribe
 
-- Dionysius Leeuwis Cartusiensis, *Exhortatorium nouitiorum,* Gothic Hybrida formata, from Basel, 2nd half of the 15th century: [Basel, Universitätsbibliothek, MS A VII 30, fol. 1r](https://www.e-codices.unifr.ch/en/ubb/A-VII-0030/1r) (lines 1–14, '*Cristus.* Nemo … es?')
-- Nicolaus Dybinus (?), *Sporta florum rethoricalium,* Semihybrida, written by Albertus Löffler at the Dominican Monastery of Basel, 1438–9: [Basel, Universitätsbibliothek, MS F VI 61, fol. 27r](https://www.e-codices.unifr.ch/en/ubb/F-VI-0061/27r) (lines 1–16, 'Ingredientibus … prospexi')
+- Denis the Carthusian, *Exhortatorium nouitiorum,* Gothic Hybrida formata, from Basel, 2nd half of the 15th century: [Basel, Universitätsbibliothek, MS A VII 30, fol. 1r](https://www.e-codices.unifr.ch/en/ubb/A-VII-0030/1r) (lines 1–14, '*Cristus.* Nemo … es?')
+- Nicolaus de Dybin (?), *Sporta florum rethoricalium,* Semihybrida, written by Albertus Löffler at the Dominican Monastery of Basel, 1438–9: [Basel, Universitätsbibliothek, MS F VI 61, fol. 27r](https://www.e-codices.unifr.ch/en/ubb/F-VI-0061/27r) (lines 1–16, 'Ingredientibus … prospexi')
 
 ## 29 March
 
