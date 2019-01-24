@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Original work title</title>
+        <editor>Editor name</editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority/>
+        <availability>
+          <licence target="https://creativecommons.org/licences/by/4.0/">
+            Distributed under a Creative Commons Attribution 4.0 International Licence.
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Location (e.g. Vatican)</settlement>
+            <institution>Library (e.g. Bibliotheca Apostolica)</institution>
+            <collection>(e.g. Vat. lat.)</collection>
+            <idno>(e.g. 3256)</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="la">
+      <div type="textpart">
+        <p>
+          <!--text goes here -->
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -187,7 +187,7 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 ### Transcribe
 
 - Eusebius Caesariensis, Prosper de Aquitania, *Chronicon,* Humanist minuscule, from Florence, *c.*1410: [Kantonsbibliothek, Vadianische Sammlung, VadSlg Ms. 298, fol. 2r](https://www.e-codices.unifr.ch/en/vad/0298/2r) (first column, lines 1–19, 'Adiuro … absoluerent.')
-- *Carmen ad osmum de Medicis directum,* Humanist cursive, from Italy, second half of the 15th century: [Basel, Universitätsbibliothek, MS F IX 2, fol. 7r](https://www.e-codices.unifr.ch/en/ubb/F-IX-0002/7r) (lines 1–16, 'Cosme … facis')
+- *Carmen ad Cosmum de Medicis directum,* Humanist cursive, from Italy, second half of the 15th century: [Basel, Universitätsbibliothek, MS F IX 2, fol. 7r](https://www.e-codices.unifr.ch/en/ubb/F-IX-0002/7r) (lines 1–16, 'Cosme … facis')
 
 ## 5 April
 

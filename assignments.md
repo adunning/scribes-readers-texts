@@ -33,11 +33,12 @@ As a seminar, this course can only function with your contribution. In each clas
 
 ## Weekly transcriptions
 
-Every week, you will transcribe passages from two manuscripts using the TEI markup demonstrated in-class. These files are due at the end of the Wednesday before each class (allowing me time to mark them before we review them in class on Friday).
+Every week, you will transcribe passages from two manuscripts using the TEI markup demonstrated in-class. See my page on [Getting started with editing TEI XML using Atom
+](https://andrewdunning.ca/getting-started-editing-tei-xml-atom) to download the software for this. The class [TEI transcription template](../assets/transcription-template.xml) provides a framework for your submissions.
 
 ## Collation exercise
 
-As a preliminary to the final project, you will make three transcriptions of the same text and make a small critical edition showing the differences between them. This will replace the transcription exercises for the week leading up to 15 March.
+As a preliminary to the final project, you will make three transcriptions of the same text and make a small critical edition showing the differences between them.
 
 ## Group edition
 
