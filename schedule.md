@@ -101,19 +101,21 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 - Tarrant, '[Reading a critical apparatus](https://doi.org/10.1017/CBO9780511805165.011)' (*skim this: a reference chapter*)
 - *Scribes and Scholars,* ch. 6 (*optional: Tarrant covers this in more depth*)
 
-### Manuscript collation: *The Life of St Perpetua*
+### Transcribe
+
+- Beatus of Liébana, commentary on the Apocalypse, late Benevantan script, from southern Italy, late 11th or early 12th century: [Geneva, Bibliothèque de Genève, Ms. lat. 357, fol. 152r](https://www.e-codices.unifr.ch/en/bge/lat0357/152r) (column 1, lines 1–25, 'Quid faciet … reseruauimus;')
+- Alan of Tewkesbury, collection of the letters of Thomas Becket, protogothic script, from Cirencester, Gloucestershire, 1180s–90s: [London, British Library, Cotton MS Claudius B. ii, fol. 17r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_b_ii_f017r) (column 2, lines 1–20, 'Iohannes … illas.')
+
+22 February
+: No class for reading week
+
+### Due 27 February: Manuscript collation, *The Life of St Perpetua*
 
 - 10th century, Soissons: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g), beginning at fol. 64r
 - 9th–10th century, St Gall: [St Gallen, Stiftsbibliothek, Cod. Sang. 577](https://doi.org/10.5076/e-codices-csg-0577), beginning at p. 165b
 - late 11th century–early 12th century, England: [London, British Library, Cotton MS Nero E. i/1](https://bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Nero_E_I/1), beginning at fol. 162r
 
 For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
-
-22 February
-: No class for reading week
-
-27 February
-: Manuscript collation due
 
 ## 1 March
 
@@ -124,11 +126,6 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 - Tarrant, '[The rhetoric of textual criticism/textual criticism as rhetoric](https://doi.org/10.1017/CBO9780511805165.004)'
 - Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
-
-### Transcribe
-
-- Beatus of Liébana, commentary on the Apocalypse, late Benevantan script, from southern Italy, late 11th or early 12th century: [Geneva, Bibliothèque de Genève, Ms. lat. 357, fol. 152r](https://www.e-codices.unifr.ch/en/bge/lat0357/152r) (column 1, lines 1–25, 'Quid faciet … reseruauimus;')
-- Alan of Tewkesbury, collection of the letters of Thomas Becket, protogothic script, from Cirencester, Gloucestershire, 1180s–90s: [London, British Library, Cotton MS Claudius B. ii, fol. 17r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_b_ii_f017r) (column 2, lines 1–20, 'Iohannes … illas.')
 
 ## 8 March
 
