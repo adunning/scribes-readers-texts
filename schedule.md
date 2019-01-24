@@ -109,7 +109,7 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 22 February
 : No class for reading week
 
-### Due 27 February: Manuscript collation, *The Life of St Perpetua*
+## Due 27 February: Manuscript collation, *The Life of St Perpetua*
 
 - 10th century, Soissons: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g), beginning at fol. 64r
 - 9th–10th century, St Gall: [St Gallen, Stiftsbibliothek, Cod. Sang. 577](https://doi.org/10.5076/e-codices-csg-0577), beginning at p. 165b
