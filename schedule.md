@@ -128,7 +128,7 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 - Soissons, 10th century: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g/f131.image), fols 65v–66r
 - St Gallen, 9th–10th century: [St Gallen, Stiftsbibliothek, Cod. Sang. 577, p. 167, second column](http://www.e-codices.chen/sendPage/csg-0577_167/167)
-- England, late 11th century–early 12th century: [London, British Library, Cotton MS Nero E. i/1, fol. 162v, end of column !–beginning of column 2](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!1_f162v)
+- England, late 11th century–early 12th century: [London, British Library, Cotton MS Nero E. i/1, fol. 162v, end of column–beginning of column 2](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!1_f162v)
 
 For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
 

@@ -17,7 +17,7 @@ Assessment is weighted as follows:
 : Weekly transcriptions (due 17:00 Thursdays)
 
 10%
-: Manuscript collation (due 27 February)
+: Manuscript collation (due 27 February and 8 March)
 
 15%
 : Group edition draft (due 15 March)
@@ -38,11 +38,44 @@ Every week, you will transcribe passages from two manuscripts using the TEI mark
 
 ## Collation exercise
 
-As a preliminary to the final project, you will make three transcriptions of the same text and make a small critical edition showing the differences between them.
+As a preliminary to the final project, we will create an edition of the *Passion of Perpetua and Felicity,* chapter 5, with the aim of showing what the text might have looked like around the tenth century (as opposed to the archetype, as represented in Heffernan's edition). Submit this in three parts:
 
-## Group edition
+1. Transcribe the three assigned manuscripts (due 27 February)
 
-We will create, as a group, an introduction, edition, and translation of a Latin text that we will select in the second week of term, and submit it for publication at the end of the year. You will be personally responsible for one portion of the text as well as reviewing your peers' work, based on an initial draft.
+2. Create an edition from the three sources (due 8 March)
+    - Paste each of your transcriptions into the [TEI Web Editor](https://tei-web-editor.herokuapp.com) and paste the version stripped of its tags into [CollateX](https://collatex.net/demo/).
+    - Decide on a manuscript to use as a base text and record the significant differences (not spelling differences) using the TEI `<app>` tag, as the [Digital Latin Library guidelines](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) describe.
+    - If you want to see what your work would look like as a printed critical edition, you can upload it to the [TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr).
+      
+3. Make a translation of the passage to document how you are understanding your choices of variants. You can submit the translation in any format you wish; it does not need to be in TEI.
+
+## Group edition: The Romsey Legendary
+
+Our final project will be an edition of selections from the Romsey Legendary ([London, British Library, Lansdowne MS 436](https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=5273)), a mostly-unpublished collection of saints' lives from the early fourteenth century that once belonged to the nuns at Romsey Abbey. But did the nuns either compose or write it? Was it written for them? Or did they just randomly get hold of this manuscript? I hope that we'll be able to answer these questions by the end of the course by editing and translating some of its texts.
+
+I will assemble our work into a single file at the end of the year and submit it to a publisher. I have created an [online sample](https://andrewdunning.ca/romsey-legendary/) to give you some idea of what the texts look like. The online [*Life of St Winifred*](https://doi.org/10/gftm82) is an example of one of the stories with an introduction and translation, and is worth reading to get an idea of some of the questions involved. (I do not expect your introduction to be so detailed as this.)
+
+Some of the vocabulary might be unfamiliar if you haven't read much medieval Latin, but it's fairly limited, and they don't tend to do anything fancy with the syntax. Look up any words you don't know using the *Dictionary of Medieval Latin from British Sources*, available on [Logeion](http://logeion.uchicago.edu).
+
+To complete the project:
+ 
+1. Choose a life from the collection. You can partner with someone else on a longer text if you wish.
+
+2. Transcribe the relevant section of the manuscript. See the [TEI source](https://github.com/adunning/romsey-legendary/blob/master/romsey-legendary.xml) as an example of the conventions to follow:
+      - Use `<lb/>` or `<lb break="no">` as appropriate to indicate new lines.
+      - Follow the manuscript's punctuation and capitalization -- it uses a capital letter for the beginning of a sentence and occasionally a proper noun. Mark any names using `<persName>`, `<placeName>`, `<geoName>`, or `<orgName>` as appropriate (which will be formatted with a capital letter in the final version).
+      - To save time, you do not need to indicate the letters you have added to expand an abbreviation.
+      - Mark the beginning of a new page with `<pb n="103r"/>` (providing the appropriate reference) and new columns with `<cb n="a"/>` ('a' for column one, 'b' for column two).
+
+3. You will also transcribe one of your peers' sections to provide a control. When doing this, it is not necessary to transcribe the text using TEI, since you will simply be comparing the two transcriptions using [CollateX](https://collatex.net/demo/) to find errors.
+
+4. Make a translation of your text, adjusting your edition as you work.
+
+5. Write a brief introduction to your section. This should include:
+    - A summary of the text;
+    - Any hints we might have as to the work's author(s);
+    - Any major sources for the text that you can identify (try searching for similar texts in the [Acta Sanctorum](http://acta.chadwyck.com.myaccess.library.utoronto.ca));
+    - Discussion of any interesting features in the manuscript.
 
 ## Analytical writing rubric
 
