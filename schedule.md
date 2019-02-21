@@ -109,28 +109,34 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 22 February
 : No class for reading week
 
-## Due 27 February: Manuscript collation, *The Passion of Perpetua and Felicity*
-
-- 10th century, Soissons: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g), beginning at fol. 64r
-- 9th–10th century, St Gall: [St Gallen, Stiftsbibliothek, Cod. Sang. 577](https://doi.org/10.5076/e-codices-csg-0577), beginning at p. 165b
-- late 11th century–early 12th century, England: [London, British Library, Cotton MS Nero E. i/1](https://bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Nero_E_I/1), beginning at fol. 162r
-
-For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
+27 February
+: *Passion of Perpetua and Felicity* transcriptions due
 
 ## 1 March
 
-- Late Carolingian scripts
 - Protogothic
+- Dealing with Textual Variation
 
 ### Read
 
 - Tarrant, '[The rhetoric of textual criticism/textual criticism as rhetoric](https://doi.org/10.1017/CBO9780511805165.004)'
 - Bischoff, '[From the tenth to the twelfth Century](https://doi.org/10.1017/CBO9780511809927.014)'
 
+### Transcribe
+
+*The Passion of Perpetua and Felicity* 5, 'Post dies paucos … ut mihi donaretur':
+
+- Soissons, 10th century: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g/f131.image), fols 65v–66r
+- St Gallen, 9th–10th century: [St Gallen, Stiftsbibliothek, Cod. Sang. 577, p. 167, second column](http://www.e-codices.chen/sendPage/csg-0577_167/167)
+- England, late 11th century–early 12th century: [London, British Library, Cotton MS Nero E. i/1, fol. 162v, end of column !–beginning of column 2](http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_e_i!1_f162v)
+
+For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), [Appendix I: Manuscripts and Editions](http://www.oxfordscholarship.com/view/10.1093/acprof:osobl/9780199777570.001.0001/acprof-9780199777570-appendix-001).
+
 ## 8 March
 
+- Late Carolingian scripts
 - Gothic Textualis
-- Dealing with Textual Variation
+- *Perpetua and Felicity edition due*
 
 ### Read
 
@@ -147,9 +153,6 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 - Gothic Cursive
 - *Group edition draft due*
 
-17 March
-: Drop date
-
 ### Read
 
 - Tarrant, '[Establishing the text 2: conjecture](https://doi.org/10.1017/CBO9780511805165.006)'
@@ -159,6 +162,9 @@ For manuscript descriptions, see Thomas J. Heffernan, *The Passion of Perpetua a
 
 - John Capgrave, *De illustribus Henricis,* Gothic Cursiva libraria, from King's Lynn, 1440–47: [Cambridge, Corpus Christi College, MS 408, p. 1](https://parker.stanford.edu/parker/catalog/kf592sx0689) (lines 1–11, 'Henrico … terre')
 - Giles of Rome, *De regimine principum,* Gothic Cursiva formata, 1460–80: [Geneva, Bibliothèque de Genève, Ms. lat. 92, fol. 1r](https://www.e-codices.unifr.ch/en/bge/lat0092/1r) (column 1 (all)–column 2, lines 1–6 '⟨Ex r⟩egia … mensurari.')
+
+17 March
+: Drop date
 
 ## 22 March
 
