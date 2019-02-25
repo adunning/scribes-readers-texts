@@ -124,7 +124,7 @@ Special collections also has an excellent facsimile.  Go and spend some time the
 
 ### Transcribe
 
-*The Passion of Perpetua and Felicity* 5, 'Post dies paucos … ut mihi donaretur':
+[*The Passion of Perpetua and Felicity* 5](https://doi.org/10.1093/acprof:osobl/9780199777570.003.0004), 'Post paucos dies … a me contristatus':
 
 - Soissons, 10th century: [Paris, Bibliothèque nationale de France, Latin 17626](https://gallica.bnf.fr/ark:/12148/btv1b6000710g/f131.image), fols 65v–66r
 - St Gallen, 9th–10th century: [St Gallen, Stiftsbibliothek, Cod. Sang. 577, p. 167, second column](https://www.e-codices.unifr.ch/en/csg/0577/167)
