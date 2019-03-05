@@ -43,6 +43,7 @@ As a preliminary to the final project, we will create an edition of the *Passion
 1. Transcribe the three assigned manuscripts (due 27 February)
 
 2. Create an edition from the three sources (due 8 March)
+    - Use the [edition template](../assets/perpetua-template.xml) as a starting point for your edition, which lists the manuscripts we're using.
     - Paste each of your transcriptions into the [TEI Web Editor](https://tei-web-editor.herokuapp.com) and paste the version stripped of its tags into [CollateX](https://collatex.net/demo/).
     - Decide on a manuscript to use as a base text and record the significant differences (not spelling differences) using the TEI `<app>` tag, as the [Digital Latin Library guidelines](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) describe.
     - If you want to see what your work would look like as a printed critical edition, you can upload it to the [TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr).

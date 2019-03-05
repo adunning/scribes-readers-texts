@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Passion of Perpetua and Felicity</title>
+        <editor>
+          <!--your name-->
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G">
+            <msDesc>
+              <msIdentifier>
+                <settlement>St Gallen</settlement>
+                <repository>Stiftsbibliothek</repository>
+                <collection>Cod. Sang.</collection>
+                <idno>577</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness xml:id="N">
+            <msDesc>
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Library</repository>
+                <collection>Cotton</collection>
+                <idno>Nero E. i/1</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness xml:id="P">
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <collection>Latin</collection>
+                <idno>17626</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+        <listBibl>
+          <biblStruct type="book" xml:id="Heffernan" corresp="http://zotero.org/users/254032/items/4J27B3CU">
+            <monogr>
+              <title level="m">The passion of Perpetua and Felicity</title>
+              <idno type="ISBN">978-0-19-977757-0</idno>
+              <idno type="DOI">10.1093/acprof:osobl/9780199777570.001.0001</idno>
+              <author>
+                <forename>Thomas J.</forename>
+                <surname>Heffernan</surname>
+              </author>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford University Press</publisher>
+                <date>2012</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <div type="textpart" subtype="capitulum" n="5">
+          <p>
+            Post paucos dies rumor <app><lem>cucurrit</lem><rdg source="#N">occurrit</rdg></app>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
