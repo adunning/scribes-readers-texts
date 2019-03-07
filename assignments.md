@@ -70,7 +70,7 @@ To complete the project:
 
 3. You will also transcribe one of your peers' sections to provide a control. When doing this, it is not necessary to transcribe the text using TEI, since you will simply be comparing the two transcriptions using [CollateX](https://collatex.net/demo/) to find errors.
 
-4. Make a translation of your text, adjusting your edition as you work.
+4. Make a translation of your text, adjusting your edition as you work. If you find that the manuscript punctuation does not make sense, you can amend it by adding more points through `<supplied>` or marking manuscript punctuation for removal with `<surplus>`. In general, however, the manuscript's punctuation makes sense internally even if it might seem strange at first, so make sure you understand the text before making changes.
 
 5. Write a brief introduction to your section. This should include:
     - A summary of the text;
